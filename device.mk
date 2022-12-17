@@ -343,6 +343,7 @@ PRODUCT_PACKAGES += \
     CarrierConfigOverlayFog \
     DialerOverlayFog \
     FrameworksOverlayFog \
+    OpenDeltaFog \
     SettingsOverlayFog \
     SettingsProviderOverlayFog \
     SystemUIOverlayFog \
